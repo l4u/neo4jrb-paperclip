@@ -38,11 +38,11 @@ That's all you have to do. Users can now upload avatars. Unlike ActiveRecord, Ne
 Known issues
 ------------
 
-File size returns 0 - https://github.com/thoughtbot/paperclip/issues/100
+File size returns 0 - [paperclip issue](https://github.com/thoughtbot/paperclip/issues/100)
 
 Related Links
 ------------
 
-[mongoid-paperclip](https://github.com/meskyanichi/mongoid-paperclip)
-[Neo4j.rb](https://github.com/andreasronge/neo4j)
-[Paperclip](https://github.com/thoughtbot/paperclip) 
+* [mongoid-paperclip](https://github.com/meskyanichi/mongoid-paperclip)
+* [Neo4j.rb](https://github.com/andreasronge/neo4j)
+* [Paperclip](https://github.com/thoughtbot/paperclip) 
