@@ -46,3 +46,6 @@ Related Links
 * [mongoid-paperclip](https://github.com/meskyanichi/mongoid-paperclip)
 * [Neo4j.rb](https://github.com/andreasronge/neo4j)
 * [Paperclip](https://github.com/thoughtbot/paperclip) 
+
+# License
+MIT license
